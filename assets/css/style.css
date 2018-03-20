@@ -1,0 +1,71 @@
+body {
+    background-image: url("https://webgradients.com/public/webgradients_png/034%20Lemon%20Gate.png");
+}
+	
+.instructions {
+    width: 650px;
+    float: left;
+    box-sizing: border-box;
+    background-color: yellow;
+    border-color: white;
+    
+}
+div{
+	background-color: white;
+	margin: 10px;
+    width: 25%
+}
+    div{
+        border: solid 2px antiquewhite;
+        padding: 10px;
+
+      
+}
+
+
+h1, h3, span{
+	font-weight: bold;
+	text-align: center;
+}
+
+div.header{
+    background-color: orange;
+    
+    
+}
+div.gems {
+    background-color: whitesmoke;
+}
+
+
+.numberToMatch {
+	float: left;
+	width: 10%;
+    height: 60px;
+    background-color: aquamarine;
+}
+.winsAndLosses{
+    background-color: dodgerblue;
+    float: left;
+    width: 5%;
+    height: 60px;
+}
+.totalmessage {
+    width: 15%;
+    height: 8px;
+    padding:10px;
+    background-color: teal;
+}
+
+.userTotal{
+	width: 100%;
+    height: 60px;
+    background-color: teal;
+}
+.gems{
+	clear: both;
+}
+.gemImage{
+	height: 60px;
+	margin: 10px;
+}
